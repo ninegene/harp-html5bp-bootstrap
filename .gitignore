@@ -1,0 +1,6 @@
+# Projects Files
+.idea/
+*.iml
+
+# Compiled static files directory
+dist/
